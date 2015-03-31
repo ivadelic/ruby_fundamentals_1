@@ -1,4 +1,4 @@
-to_ten = (1..10)
+to_ten = (1..100)
 to_ten.each do |num|
 	if num.remainder(3)==0
 		puts "Bit"
